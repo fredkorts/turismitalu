@@ -1,0 +1,6 @@
+1. Weather app in the corner? ilm.ee
+2. Layout: Menu bar should have a minimalist location tag. It shouldn't blaze red, instead it should casually show where you are.
+3. Menu: Esileht, Teenused, Gallerii, Kontakt 
+
+Tunnid: 
+Plaanimine: 18:00-

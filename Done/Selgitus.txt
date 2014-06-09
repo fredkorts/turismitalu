@@ -1,0 +1,12 @@
+Veebileht on üks pikk leht ja igal sektsioonil on headeriks logo ja menüü riba mida näeb esilehel. 
+
+Gallerii: 
+1) http://www.penelope.ee/est/258
+2) http://alexkalicki.com/jquery-simple-gallery/
+
+Nende kahe vahel on esimene kõige lihtsam ja töökindlam. Äkki kliendile meeldib teine rohkem. Küsi järgi.
+
+To fix:
+1) Teenuste lehel hall osa heledamaks.
+2) Rohkem kontrasti
+3) On vaja tausta (Hiiumaa rannajoon? Maastik?)
