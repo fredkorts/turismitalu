@@ -22,11 +22,11 @@
 			<div id="menu_headers">
 				<ul>
 					<li><a href="index.html">Esileht</a></li>
-					<li><a href="#">Teenused</a></li>
-					<li><a href="#">Sündmused</a></li>
-					<li><a href="#">Galerii</a></li>
-					<li><a href="#">Broneerimine</a></li>
-					<li><a href="#">Kontakt</a></li>
+					<li><a href="teenused.html">Teenused</a></li>
+					<li><a href="sündmused.html">Sündmused</a></li>
+					<li><a href="galerii.html">Galerii</a></li>
+					<li><a href="bron.html">Broneerimine</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
 				</ul>
 			</div>
 		</div>
@@ -34,6 +34,7 @@
 		<div id="top_fence"></div>
 		<div id="heading">Broneerimine</div>
 		<div id="form_wrapper">
+				<div id="NB">NB! Broneering ei kehti ilma meiepoolse kinnituseta!</div>
 		<form>
 			<table>
 				<tr>

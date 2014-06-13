@@ -71,13 +71,7 @@ body
 	color: black;
 }
 /*--------NAVIGATION ENDS--------*/
-#form_wrapper
-{
-	width: 550px;
-	min-width: 450px;
-	height: 76%;
-	margin: 0 auto;
-}
+
 #top_fence
 {
 	width: 100%;
@@ -91,12 +85,98 @@ body
 	font-size: 26px;
 	border-bottom: 2px solid gray;
 }
+#event_space
+{
+	height: auto;
+	width: 100%;
+
+}
+#events
+{
+	width: 800px;
+	height: 100%;
+	margin: 0 auto;
+}
+#events ul 
+{
+	list-style-type: none;
+	font-family: 'Sans Droid';
+	font-size: 22px;
+	font-weight: bold;
+}
+#events li
+{
+	display: inline-block;
+}
+.pildid
+{
+	display: inline-block;
+	width: 90%;
+	margin: 0 auto;
+	min-height: 260px;
+	height: auto;
+}
+.pildid img
+{
+	display: inline-block;
+}
+.event_box
+{
+	height: 120px;
+	width: 300px;
+	display: inline-block;
+}
+.event_title
+{
+	width: 100%;
+	height: 30px;
+	font-family: 'Droid sans';
+	font-size: 23px;
+}
+.event_date
+{
+	width: 100%;
+	height: 20px;
+	text-align: left;
+	font-family: 'Droid Sans';
+	font-size: 17px;
+}
+.event_intro
+{
+	width: 100%;
+	height: 70px;
+	font-family: 'Droid Serif';
+	font-size: 13px;
+	font-weight: normal;
+}
+.event_jpg
+{
+	height: 120px;
+	width: 120px;
+	float: left;
+}
+.event_jpg img
+{
+	width: 100%;
+	height: 100%;
+}
+.event_desc
+{
+	width: 175px;
+	height: 120px;
+	float: right;
+}
+.event_desc h1
+{
+	font-family: 'Droid Sans'
+	font-size: 20px;
+	font-weight: bold;
+}
 #contact
 {
 	width: 100%;
-	height: 7%;
+	height: 9%;
 	background: gray;
-	border-top: 2px solid white;
 	position: fixed;
 	bottom: 0px;
 	right: 0px;
@@ -108,53 +188,4 @@ body
 	margin: 0 auto;
 
 }
-/*----------Form------------*/
-#form_wrapper table
-{
-	margin: 0 auto;
-	padding-top: 100px;
-}
-.left_txt
-{
-	width: 100px;
-	text-align: right;
-	font-family: 'Droid Serif';
-	margin-top: 5px;
-}
-.left_txt_2
-{
-	width: 110px;
-	text-align: left;
-	font-family: 'Droid Serif';
-	font-size: 15px;
-	margin-top: 5px;
-}
-.right_txt
-{
-	width: 200px;
-	margin-top: 5px;
-}
-.wedge
-{
-	width: 100%;
-	height: 5%;
-}
-.right_txt_field
-{
-	width: 200px;
-	height: auto;
-	margin-top: 5px;
-}
-#submit_b
-{
-	width: 100px;
-	margin: 0 auto;
-	margin-top: 25px;
-}
-#NB
-{
-	margin: 0 auto;
-	font-family: 'Droid Serif';
-	color: red;
-	font-weight: bold;
-}
+

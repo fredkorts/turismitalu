@@ -1,0 +1,100 @@
+<html>
+	<head>
+		<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="teenused_styles.css">
+	</head>
+
+	<body>
+		<div id="flags">
+			<ul class="inline">
+				<li><img src="Resources\flags\Estonia.png"></li>
+				<li><img src="Resources\flags\Russia.png"></li>
+				<li><img src="Resources\flags\Finland.png"></li>
+				<li><img src="Resources\flags\United-Kingdom.png"></li>
+			</ul>
+		</div>
+		<div id="navigation">
+			<div id="menu_headers">
+				<ul>
+					<li><a href="index.html">Esileht</a></li>
+					<li><a href="teenused.html">Teenused</a></li>
+					<li><a href="sündmused.html">Sündmused</a></li>
+					<li><a href="galerii.html">Galerii</a></li>
+					<li><a href="bron.html">Broneerimine</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="top_fence"></div>
+		<div id="heading">Teenused</div>
+		<div id="teenused_wrap">
+			<ul class="teenused">
+				<li>
+					<div class="teenus_box">
+						<div class="foto"><img src="majutus.png"></div>
+						<div class="seletus">
+							<h2>Majutus</h2>
+							<p>Maja on ehitatud 2001 aastal. Selles on 4 põhikohta, vajadusel 2 lisavoodi võimalus.</p>
+							<ul>
+								<li><p>Majas on väike kööginurk, kus saab edukalt väiksemale seltskonnale süüa valmistadad.</p></li>
+								<li>Kamin</li>
+								<li>TV, raadio elektriküttega saun, dušš ja WV</li>
+								<li>Akendel putukavõrgud</li>
+								<li>Lastele õues batuut turvavõrguga</li>
+							</ul>
+							<p>Esimesel korrusel on kaminaga köök-elutuba, teisel korrusel on 1 magamisruum, 4 voodiga.</p>
+							<p>Hooajal (01.05 - 31.08) rendime maja välja nädalavahetusel reedest - pühapäevai, s.o 2 ööpäeva, mitte vähem. Esmaspäevast reedeni võimalik broneerida ka 1 ööpäevaks.</p>
+							<p>Õues on lõkkeplats ja grillimise võimalus. Maja paikneb täiesti eraldi ja sellega on privaatsus garanteeritud.</p>
+							<p>Meri asub 1.5 km kaugusel.</p>
+							<br>
+							<table style="width:600px">
+								<tr>
+									<td><b>Periood</b></td>
+									<td><b>24h - €</b></td>
+								</tr>
+								<tr>
+									<td>01.05 - 31.08, 1-4 inimesele</td>
+									<td>85</td>
+								</tr>
+								<tr>
+									<td>01.09 - 01.11, 1-4 inimesele</td>
+									<td>60</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="teenus_box">
+						<div class="foto"><img src="saun.png"></div>
+						<div class="seletus">
+							<h2>Saun</h2>
+							<p>San asub telkimisplatsi ääres. Selles on eesruum, kus on ka TV vaatamise võimalus. Pesuruumis on kaks dušsi.</p>
+							<p>Leiliruum, mille lavale mahub max. 4 inimest.</p>
+							<br>
+							<p>Saun on puukerisega</p>
+							<p>Telkijatel on võimalus ka ainult dušši kasutada.</p>
+							<p>Kütame sauna soojaks just Teile sobivaks kellaajaks.</p>
+							<table style="width:600px">
+								<tr>
+									<td><b>Inimeste arv</b></td>
+									<td><b>€</b></td>
+								</tr>
+								<tr>
+									<td></td>
+									<td></td>
+								</tr>
+								<tr>
+									<td></td>
+									<td></td>
+								</tr>
+
+							</table>
+						</div>					
+					</div>
+				</li>
+			</ul>
+		</div>
+
+	</body>
+</html>

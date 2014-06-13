@@ -14,12 +14,12 @@
 			<div id="navigation">
 				<div id="menu_headers">
 					<ul>
-						<li><a href="#">Esileht</a></li>
-						<li><a href="#">Teenused</a></li>
-						<li><a href="#">Sündmused</a></li>
-						<li><a href="#">Galerii</a></li>
-						<li><a href="#">Broneerimine</a></li>
-						<li><a href="#">Kontakt</a></li>
+						<li><a href="index.html">Esileht</a></li>
+						<li><a href="teenused.html">Teenused</a></li>
+						<li><a href="sündmused.html">Sündmused</a></li>
+						<li><a href="galerii.html">Galerii</a></li>
+						<li><a href="bron.html">Broneerimine</a></li>
+						<li><a href="kontakt.html">Kontakt</a></li>
 					</ul>
 				</div>
 			</div>
@@ -27,6 +27,7 @@
 				<div id="top_fence"></div>
 				<div id="about_circle">
 					<div id="about_text">
+						<br>
 						<div id="title">
 							<h1>Howdy!</h1>
 						</div>
@@ -41,8 +42,7 @@
 			</div>
 			<div id="contact">
 				<div id="info">
-					<p>Ratturipuit OÜ, 76401 Tuulemurru, Tallinn, ESTONIA: + 372 xxxxxxxxxx(Eesti, Vene) + 372 46 361 26(Inglise, Soome )</p>
-					<p>e-post ratturitalu@ratturitalu.com   www.Ratturitalu.eu</p>
+					<p>Ratturipuit OÜ, 76401 Tuulemurru, Tallinn, ESTONIA: + 372 xxxxxxxxxx(Eesti, Vene) + 372 46 361 26(Inglise, Soome ) e-post ratturitalu@ratturitalu.com   www.Ratturitalu.eu</p>
 				</div>
 			</div>
 		</div>

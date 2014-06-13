@@ -49,7 +49,7 @@ body
 	margin: 0 auto;
 	padding: 0;
 	text-align: center;
-	width: 950px;
+	width: 900px;
 	height: 100%;
 }
 
@@ -95,8 +95,11 @@ body
 {
 	width: 100%;
 	height: 9%;
-	background: url('footer.png');
+	background: gray;
 	border-top: 2px solid white;
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
 }
 #info
 {
@@ -147,4 +150,11 @@ body
 	width: 100px;
 	margin: 0 auto;
 	margin-top: 25px;
+}
+#NB
+{
+	margin: 0 auto;
+	font-family: 'Droid Serif';
+	color: red;
+	font-weight: bold;
 }

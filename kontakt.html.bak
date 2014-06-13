@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="kontakt.css">
+	    <script src="https://maps.googleapis.com/maps/api/js"></script>
+		<script>
+		  function initialize() {
+			var myLatlng = new google.maps.LatLng(59.0040558, 22.514311);
+			var map_canvas = document.getElementById('map');
+			var map_options = {
+			  center: myLatlng,
+			  zoom: 15,
+			  mapTypeId: google.maps.MapTypeId.ROADMAP
+			}
+			var map = new google.maps.Map(map_canvas, map_options)
+			var marker = new google.maps.Marker({
+				position: myLatlng,
+				map: map,
+				title: 'Ratturitalu'
+			});
+		  }
+		  google.maps.event.addDomListener(window, 'load', initialize);
+		</script>
+
+	</head>
+
+	<body>
+		<div id="flags">
+			<ul class="inline">
+				<li><img src="Resources\flags\Estonia.png"></li>
+				<li><img src="Resources\flags\Russia.png"></li>
+				<li><img src="Resources\flags\Finland.png"></li>
+				<li><img src="Resources\flags\United-Kingdom.png"></li>
+			</ul>
+		</div>
+		<div id="navigation">
+			<div id="menu_headers">
+				<ul>
+					<li><a href="index.html">Esileht</a></li>
+					<li><a href="teenused.html">Teenused</a></li>
+					<li><a href="sündmused.html">Sündmused</a></li>
+					<li><a href="galerii.html">Galerii</a></li>
+					<li><a href="bron.html">Broneerimine</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="top_fence"></div>
+		<div id="heading">Kontakt</div>
+		<div id="map_wrapper">
+			<div id="map"></div>
+			<div id="kontakt_info">
+				Triinu
+				<p><b>Telefon:</b></p>
+				+372 513 7865
+				<br>
+				+ 372 513 9865 (vene keel)
+				<p><b>E-post:</b></p>
+				<p>info@manniliiva.ee</p>
+				<br>
+				Männiliiva Talu<br>
+				Saare küla<br>
+				Pühalepa vald 92347<br>
+				Hiiumaa
+			</div>
+		</div>
+		<div id="contact">
+			<div id="info">
+				<p>Ratturipuit OÜ, 76401 Tuulemurru, Tallinn, ESTONIA: + 372 xxxxxxxxxx(Eesti, Vene) + 372 46 361 26(Inglise, Soome ) e-post ratturitalu@ratturitalu.com   www.Ratturitalu.eu</p>
+			</div>
+		</div>
+
+	</body>
+</html>

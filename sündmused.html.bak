@@ -1,0 +1,114 @@
+<html>
+	<head>
+		<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="events_styles.css">
+	</head>
+
+	<body>
+		<div id="flags">
+			<ul class="inline">
+				<li><img src="Resources\flags\Estonia.png"></li>
+				<li><img src="Resources\flags\Russia.png"></li>
+				<li><img src="Resources\flags\Finland.png"></li>
+				<li><img src="Resources\flags\United-Kingdom.png"></li>
+			</ul>
+		</div>
+		<div id="navigation">
+			<div id="menu_headers">
+				<ul>
+					<li><a href="index.html">Esileht</a></li>
+					<li><a href="teenused.html">Teenused</a></li>
+					<li><a href="sündmused.html">Sündmused</a></li>
+					<li><a href="galerii.html">Galerii</a></li>
+					<li><a href="bron.html">Broneerimine</a></li>
+					<li><a href="kontakt.html">Kontakt</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="top_fence"></div>
+		<div id="heading">Sündmused</div>
+		<div id="event_space">
+			<div id="events">
+				<ul>
+					<li>2014</li>	
+					<hr align="left" width="50%">
+					<ul class="pildid">
+						<li>
+							<div class="event_box">
+								<div class="event_jpg">
+									<img src="he-man.jpg"">
+								</div>
+								<div class="event_desc">
+									<div class="event_title">Jaanipäev</div>
+									<div class="event_date">24.06</div>
+									<div class="event_intro">
+									Tulge Ratturitalu vingele Jaanipäevale! 
+									<br>Külalis esinejaks: He-man.
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="event_box">
+								<div class="event_jpg">
+									<img src="he-man.jpg"">
+								</div>
+								<div class="event_desc">
+									<div class="event_title">Jaanipäev</div>
+									<div class="event_date">24.06</div>
+									<div class="event_intro">
+									Tulge Ratturitalu vingele Jaanipäevale! 
+									<br>Külalis esinejaks: He-man.
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="event_box">
+								<div class="event_jpg">
+									<img src="he-man.jpg"">
+								</div>
+								<div class="event_desc">
+									<div class="event_title">Jaanipäev</div>
+									<div class="event_date">24.06</div>
+									<div class="event_intro">
+									Tulge Ratturitalu vingele Jaanipäevale! 
+									<br>Külalis esinejaks: He-man.
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</ul>
+				<ul>
+					<li>2013</li>	
+					<hr align="left" width="50%">
+					<ul class="pildid">
+						<li>
+							<div class="event_box">
+								<div class="event_jpg">
+									<img src="he-man.jpg"">
+								</div>
+								<div class="event_desc">
+									<div class="event_title">Jaanipäev</div>
+									<div class="event_date">24.06</div>
+									<div class="event_intro">
+									Tulge Ratturitalu vingele Jaanipäevale! 
+									<br>Külalis esinejaks: He-man.
+									</div>
+								</div>
+							</div>
+						</li>
+
+					</ul>
+				</ul>
+
+			</div>
+		</div>
+		<div id="contact">
+			<div id="info">
+				<p>Ratturipuit OÜ, 76401 Tuulemurru, Tallinn, ESTONIA: + 372 xxxxxxxxxx(Eesti, Vene) + 372 46 361 26(Inglise, Soome ) e-post ratturitalu@ratturitalu.com   www.Ratturitalu.eu</p>
+			</div>
+		</div>
+	</body>
+</html>
